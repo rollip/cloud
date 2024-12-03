@@ -1,0 +1,65 @@
+.app {
+  width: 800px;
+  margin: 0 auto;
+  height: inherit;
+}
+
+.translatePanel {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  width: 100%;
+}
+
+.translateForm {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+  flex: 1;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+}
+
+.dropdowm {
+  width: 100%;
+
+}
+.textarea {
+  width: 100%;
+}
+
+.result {
+  width: 100%;
+  flex: 1;
+}
+
+.history {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+.historyTitle {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.mycard {
+       background: #e9ecef;
+    border-width: 20px;
+    color: black;
+    border-radius: 20px;
+    border-width: 2ex 1.25ex 0.5ex;
+    font-family: "Montserrat";
+}
+
+.mybutton {
+   background: #e9ecef;
+   color:white;
+}
