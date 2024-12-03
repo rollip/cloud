@@ -5,6 +5,7 @@ YandexTranslate API: Для перевода текста используетс
 Object Storage (S3): Для хранения истории переводов.  Doc: https://yandex.cloud/en/docs/storage/
 
 Запуск бэка - запустить класс  KostyaServClass.java
+
 Запуск фронта - npm run dev
 
 
